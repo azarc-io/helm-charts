@@ -3,9 +3,9 @@ entries:
   gateway:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-06-18T12:36:41.436806199Z"
+    created: "2024-06-18T13:02:44.704524124Z"
     description: VTH Gateway
-    digest: 1938b5a615853f2959d315e3e1b22a39ada9722946a76323bd3027062fbc1e41
+    digest: fe018300ed660b71ab48a346bc88b2469635a8561729c7681a3a38f6dc16720e
     maintainers:
     - email: wael.jammal@azarc.io
       name: Wael Jammal
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://azarc-io.github.io/helm-charts/gateway-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-18T12:36:41.435366539Z"
+generated: "2024-06-18T13:02:44.703189753Z"
