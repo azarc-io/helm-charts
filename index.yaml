@@ -18,6 +18,20 @@ entries:
   vth-gateway:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-09-03T10:06:02.448389062Z"
+    description: VTH Gateway
+    digest: ddf44a46433fb1579fb5aed7e85f15737f4164a21489ae436bd7c425380a1618
+    maintainers:
+    - email: wael.jammal@azarc.io
+      name: Wael Jammal
+    name: vth-gateway
+    sources:
+    - https://github.com/azarc-io/verathread-gateway
+    urls:
+    - https://azarc-io.github.io/helm-charts/vth-gateway-v1.85.0.tgz
+    version: v1.85.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-09-03T05:11:31.894420477Z"
     description: VTH Gateway
     digest: 3c88b127242735074503f99865684771f2e1fb3a24ddc17521a978331d5dfb5e
@@ -842,4 +856,4 @@ entries:
     urls:
     - https://azarc-io.github.io/helm-charts/vth-gateway-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-03T05:11:31.893279046Z"
+generated: "2024-09-03T10:06:02.447101606Z"
